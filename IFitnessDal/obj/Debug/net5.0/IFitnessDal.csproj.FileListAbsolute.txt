@@ -1,0 +1,189 @@
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\appsettings.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.Views.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.Views.pdb
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.deps.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.runtimeconfig.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.runtimeconfig.dev.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.exe
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\bin\Debug\net5.0\FitnessSystem.pdb
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\詹姆斯\Documents\Tencent Files\1749415377\FileRecv\FitnessSystem(1)\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\王炸logo\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\Administrator\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\lfg\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\lfg\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\威斯布鲁克\Desktop\王大陆的文件夹（作业，勿删）\1234\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\gitFitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\gitFitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\Administrator\Desktop\liu-zhi-fitness\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\16008\Desktop\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\16008\Desktop\学习知识总结\自己做的项目\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\FitnessSystem\IFitnessDal\obj\Debug\net5.0\refint\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.deps.json
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\bin\Debug\net5.0\IFitnessDal.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\bin\Debug\net5.0\FitnessEntity.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.AssemblyReference.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfoInputs.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.AssemblyInfo.cs
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CoreCompileInputs.cache
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.csproj.CopyComplete
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\refint\IFitnessDal.dll
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\IFitnessDal.pdb
+C:\Users\www33\Desktop\个人文件夹\FitnessSystem\IFitnessDal\obj\Debug\net5.0\ref\IFitnessDal.dll
