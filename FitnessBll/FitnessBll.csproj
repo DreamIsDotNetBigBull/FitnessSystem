@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.2.5" />
+    <PackageReference Include="NPOI" Version="2.5.5" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\FitnessCommon\FitnessCommon.csproj" />
+    <ProjectReference Include="..\FitnessDal\FitnessDal.csproj" />
+    <ProjectReference Include="..\FitnessEntity\FitnessEntity.csproj" />
+    <ProjectReference Include="..\IFitnessBll\IFitnessBll.csproj" />
+    <ProjectReference Include="..\IFitnessDal\IFitnessDal.csproj" />
+  </ItemGroup>
+
+</Project>

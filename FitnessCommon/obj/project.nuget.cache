@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dq6zg/m6gbv0i3V2MCWDL/1SKoMtdr66OidjoIjIbHBRJHx92BSECG+BXWgACsUnI+4yt3i/ZF+Ao7dlUFvK7A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\www33\\Desktop\\个人文件夹\\FitnessSystem\\FitnessCommon\\FitnessCommon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\www33\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\www33\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\www33\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
